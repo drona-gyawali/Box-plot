@@ -1,7 +1,7 @@
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-# sorting the data
+# sorting the raw_data
 raw_datasets=  [12, 15, 14, 10, 13, 25, 21, 24, 18, 19, 30, 28, 22, 35, 40]
 raw_datasets.sort()
 
